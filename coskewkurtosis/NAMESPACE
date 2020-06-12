@@ -1,0 +1,2 @@
+useDynLib(coskewkurtosis)
+exportPattern("^[[:alpha:]]+")
